@@ -1,0 +1,19 @@
+{
+  "name": "sonia",
+  "version": "1.0.0",
+  "description": "node js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhmardani/sonia.git"
+  },
+  "author": "mhmardani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhmardani/sonia/issues"
+  },
+  "homepage": "https://github.com/mhmardani/sonia#readme"
+}
